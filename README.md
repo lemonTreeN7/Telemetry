@@ -4,7 +4,7 @@ Telemetry for Cisco
 Introduction
 ===
 The repo helps for the deployment of a monitoring system including telegraf, influxdb and chronograf.
-This has been thinking for telemetry with Cisco devices and tested with Cisco NX-OS devices. If you would like to use it with a different
+This has been thought for telemetry with Cisco devices and tested with Cisco NX-OS devices. If you would like to use it with a different
 type of devices, or different protocols such as SNMP, just configure the appropriate telegraf plugin (check configure telegraf part).
 
 Install
