@@ -7,6 +7,10 @@ The repo helps for the deployment of a monitoring system including telegraf, inf
 This has been thought for telemetry with Cisco devices and tested with Cisco NX-OS devices. If you would like to use it with a different
 type of devices, or different protocols such as SNMP, just configure the appropriate telegraf plugin (check configure telegraf part).
 
+Requirements
+===
+All you need to have is docker installed.
+
 Install
 ===
 Have a look at docker-compose.yml file, edit the ports or the volumes mappings if needed. 
