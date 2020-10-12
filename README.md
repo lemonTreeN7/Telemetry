@@ -8,7 +8,9 @@ This has been thought for telemetry with Cisco devices and tested with Cisco NX-
 type of devices, or different protocols such as SNMP, just configure the appropriate telegraf plugin (check configure telegraf part).
 Also, if you prefer Grafana over Chronograf or anything else, edit the docker-compose file to use the GUI of your choice.
 If you are new to telemetry, have a look at the following documentation. This article also gives a code snipped example.
+
 https://developer.cisco.com/docs/nx-os/#!telemetry/streaming-telemetry
+
 Also, it should be noted telemetry is not specific to NX-OS or Cisco, and Telegraf Influx Chronograf (TIC) stack can be used with any vendors.
 
 Requirements
