@@ -12,7 +12,7 @@ https://developer.cisco.com/docs/nx-os/#!telemetry/streaming-telemetry
 I would also encourage to have a read at the following documentation explaining it from the IOS-XR point of view :  
 https://xrdocs.io/telemetry/tutorials/2016-07-21-configuring-model-driven-telemetry-mdt/  
 
-Also, it should be noted telemetry is not specific to NX-OS or Cisco, and Telegraf Influx Chronograf (TIC) stack can be used with any vendors.
+Also, it should be noted telemetry is not specific to NX-OS or Cisco, therefore Telegraf Influx Chronograf (TIC) stack can be used with any vendors.
 
 
 
