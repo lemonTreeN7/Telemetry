@@ -6,7 +6,7 @@ Introduction
 The repo helps for the deployment of a monitoring system including telegraf, influxdb and chronograf.
 This has been thought for telemetry with Cisco devices and tested with Cisco NX-OS devices. If you would like to use it with a different
 type of devices, or different protocols such as SNMP, just configure the appropriate telegraf plugin (check configure telegraf part).
-Also, if you prefer Grafana over Chronograf or anything else, edit the docker-compose file to use the GUI of your choice.
+Also, if you prefer Grafana over Chronograf or anything else, edit the docker-compose file to use the GUI of your choice.  
 If you are new to telemetry, have a look at the following documentation. This article also gives a code snipped example.  
 https://developer.cisco.com/docs/nx-os/#!telemetry/streaming-telemetry  
 I would also encourage to have a read at the following documentation explaining it from the IOS-XR point of view :  
